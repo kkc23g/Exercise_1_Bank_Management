@@ -19,8 +19,7 @@ int main()
 		while (!inputValid) {
 			cout << "YOU want to login as:" << endl;
 			cout << "\t1-ADMIN" << endl;
-			cout << "\t2-CUSTOMER" << endl;
-			cout << "\t3-EXIT\n" << endl;
+			cout << "\t2-EXIT\n" << endl;
 
 			string input;
 			getline(cin, input);
@@ -51,12 +50,7 @@ int main()
 		}
 		if (condition == 2)
 		{
-			cout << "You are logged in as Customer" << "\n" << endl;
 			condition = 2;
-		}
-		if (condition == 3)
-		{
-			condition = 3;
 			break;
 		}
 	}
