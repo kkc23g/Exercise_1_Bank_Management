@@ -1,3 +1,3 @@
 # Exercise_1_Bank_Management
-My first exercise in C++, learning Basic Input Output, Input Validation, Unordered Map and Header files.\
+My first exercise in C++, learning basic input output, input validation, unordered map and header files.\
 This was adapted from https://github.com/wkhaliddev/Bank-Management
